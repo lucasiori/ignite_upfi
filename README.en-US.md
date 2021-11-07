@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="https://github.com/lucasiori/ignite_upfi/edit/master/README.md">🇧🇷 Português</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/lucasiori/ignite_upfi/edit/master/README.en-US.md">🇺🇸 English</a>
+  <a href="https://github.com/lucasiori/ignite_upfi/blob/master/README.md">🇧🇷 Português</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/lucasiori/ignite_upfi/blob/master/README.en-US.md">🇺🇸 English</a>
 </p>
 
 <h1 align="center">Bootcamp Ignite: upfi</h1>

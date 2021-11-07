@@ -28,7 +28,7 @@
 
 <h2 id="techs">🔧 Tecnologias</h2>
 
-<p>
+<p align="center">
   <a href="https://pt-br.reactjs.org/" target="_blank">
     <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/react.jpg" alt="React" width="150" height="100" />
   </a>
@@ -44,6 +44,11 @@
   <a href="https://react-hook-form.com/" target="_blank">
     <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/react-hook-form.jpeg" alt="React Hook Form" width="150" height="100" />
   </a>
+</p>
+
+<br />
+
+<p align="center">
   <a href="https://react-query.tanstack.com/" target="_blank">
     <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/react-query.png" alt="React Query" width="150" height="100" />
   </a>

@@ -28,37 +28,54 @@
 
 <h2 id="techs">🔧 Tecnologias</h2>
 
-<p align="center">
-  <a href="https://pt-br.reactjs.org/" target="_blank">
-    <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/react.jpg" alt="React" width="150" height="100" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/nextjs.jpeg" alt="Next.js" width="150" height="100" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/typescript.png" alt="Typescript" width="150" height="100" />
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank">
-    <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/chakra-ui.png" alt="Chakra UI" width="150" height="100" />
-  </a>
-  <a href="https://react-hook-form.com/" target="_blank">
-    <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/react-hook-form.jpeg" alt="React Hook Form" width="150" height="100" />
-  </a>
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://react-query.tanstack.com/" target="_blank">
-    <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/react-query.png" alt="React Query" width="150" height="100" />
-  </a>
-  <a href="https://fauna.com/" target="_blank">
-    <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/faunadb.png" alt="Fauna DB" width="150" height="100" />
-  </a>
-  <a href="https://pt-br.imgbb.com/" target="_blank">
-    <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/imgbb.png" alt="ImgBB" width="150" height="100" />
-  </a>
-</p>
+<table width="100%" align="center">
+  <tbody>
+    <tr>
+      <td width="25%" align="center" vertical-align="middle">
+        <a href="https://pt-br.reactjs.org/" target="_blank">
+          <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/react.jpg" alt="React" height="100" />
+        </a>
+      </td>
+      <td width="25%" align="center" vertical-align="middle">
+        <a href="https://nextjs.org/" target="_blank">
+          <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/nextjs.jpeg" alt="Next.js" height="100" />
+        </a>
+      </td>
+      <td width="25%" align="center" vertical-align="middle">
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/typescript.png" alt="Typescript" height="100" />
+        </a>
+      </td>
+      <td width="25%" align="center" vertical-align="middle">
+        <a href="https://chakra-ui.com/" target="_blank">
+          <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/chakra-ui.png" alt="Chakra UI" height="100" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center" vertical-align="middle">
+        <a href="https://react-hook-form.com/" target="_blank">
+          <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/react-hook-form.jpeg" alt="React Hook Form" height="100" />
+        </a>
+      </td>
+      <td width="25%" align="center" vertical-align="middle">
+        <a href="https://react-query.tanstack.com/" target="_blank">
+          <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/react-query.png" alt="React Query" height="100" />
+        </a>
+      </td>
+      <td width="25%" align="center" vertical-align="middle">
+        <a href="https://fauna.com/" target="_blank">
+          <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/faunadb.png" alt="Fauna DB" height="100" />
+        </a>
+      </td>
+      <td width="25%" align="center" vertical-align="middle">
+        <a href="https://pt-br.imgbb.com/" target="_blank">
+          <img src="https://github.com/lucasiori/ignite_upfi/blob/master/.github/imgbb.png" alt="ImgBB" width="150" height="100" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
 

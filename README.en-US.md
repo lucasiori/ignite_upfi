@@ -10,28 +10,28 @@
 </p>
 
 <p align="center">
-  <a href="#about">Sobre</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#techs">Tecnologias</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#running-application">Executando a aplicação</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#about">About</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#techs">Technologies</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#running-application">Running application</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#preview">Preview</a>
 </p>
 
-<h2 id="about">ℹ Sobre</h2>
+<h2 id="about">ℹ About</h2>
 
-<p>Projeto de conclusão do desafio <strong>Upload de imagens</strong> referente ao capítulo 4 do bootcamp.</p>
-<p>A aplicação se resume em um repositório de imagens, onde você pode adicionar imagens identificadas por título/descrição.</p>
-<p>Esse desafio tem como finalidade colocar em prática conceitos e tecnologias aprendidas durante o capítulo, como:</p>
+<p>Completion project of the  <strong>Upload images</strong> challenge referring to chapter 4 of the bootcamp.</p>
+<p>The application is an images repository, where you can add images identified by title/description.</p>
+<p>This challeng is intented to put into pratice concepts and technologies learned during the chapter, such as:</p>
 <p>
   <ul>
-    <li><strong>React Query:</strong> Gerenciamento dos dados - busca, armazenamento, manipulação</li>
-    <li><strong>React Hook Form:</strong> Gerenciamento e validação de formulários</li>
-    <li><strong>Chakra UI:</strong> Interfaces declarativas</li>
+    <li><strong>React Query:</strong> Data management - fetching, caching, manipulating</li>
+    <li><strong>React Hook Form:</strong> Form management and validation</li>
+    <li><strong>Chakra UI:</strong> Declarative interfaces</li>
   </ul>
 </p>
 
 <br />
 
-<h2 id="techs">🔧 Tecnologias</h2>
+<h2 id="techs">🔧 Technologies</h2>
 
 <table width="100%" align="center">
   <tbody>
@@ -84,56 +84,54 @@
 
 <br />
 
-<h2 id="running-application">✅ Executando a aplicação</h2>
+<h2 id="running-application">✅ Running application</h2>
 
-<strong>Requisitos:</strong>
+<strong>Requirements:</strong>
 <ul>
   <li>Node.js</li>
-  <li>Gerenciador de pacotes: NPM ou Yarn</li>
+  <li>Package manager: NPM ou Yarn</li>
 </ul>
 
 <p>
-  Primeiramente, clone o repositório na sua máquina local: <br />
+  First, clone this repository on your local machine: <br />
   <code>git clone https://github.com/lucasiori/ignite_upfi</code>
 </p>
 
 <p>
-  Para que a aplicação funcione corretamente, é necessário que você configure as variáveis ambiente para acessar o banco de dados <strong>FaunaDB</strong> e
-  o repositório de imagens <strong>ImgBB</strong>.
+  For this application work correctly, is needed that your configure the environment variables to access the <strong>FaunaDB</strong> database and the <strong>ImgBB</strong> images repository.
 </p>
 <p>
-  Clone o arquivo <code>.env.example</code> em um novo arquivo chamado <code>.env.local</code>. Nesse arquivo você deve colocar as chaves de conexão com o
-  banco de dados e o repositório de imagens.
+  Clone the <code>.env.example</code> file into a new file called <code>.env.local</code>. In this file you must put the connection keys of the database and the images repository.
 </p>
 <p>
-  <strong>Observação:</strong> O banco de dados criado no <strong>FaunaDB</strong> pode ser nomeado como desejar, mas deve ter <strong>OBRIGATORIAMENTE</strong>
-  uma <i>collection</i> chamada <strong>images</strong>. É nessa <i>collection</i> que serão armazenados os dados.
+  <strong>Observation:</strong> The database created in the <strong>FaunaDB</strong> can be named as you with, but <strong>MANDATORY</strong> it must have a collection called <strong>images</strong>. Is in this collection that the data will be stored.
 </p>
 
 <p>
-  Acesse a pasta do projeto, e no terminal execute o comando para instalar as dependências: <br />
+  Access the project file, and in the terminal, run the command to install the dependencies: <br />
   <ul>
     <li>
-      <strong>se estiver utilizando NPM: </strong>
+      <strong>if using NPM: </strong>
       <code>npm install</code>
     </li>
     <li>
-      <strong>se estiver utilizando Yarn: </strong>
+      <strong>if using Yarn: </strong>
       <code>yarn</code>
     </li>
   </ul>
 </p>
 
 <p>
-  Após instaladas as dependências, certifique-se de que a porta <strong>3000</strong> está disponível, pois é a porta onde a aplicação será executada. <br />
-  Para iniciar a aplicação, execute o comando: <br />
+  After installing the dependencies, make sure that port <strong>3000</strong> is available, it is the port where
+  the application will run. <br />
+  To starting application, run the command: <br />
   <ul>
     <li>
-      <strong>se estiver utilizando NPM: </strong>
+      <strong>if using NPM: </strong>
       <code>npm run dev</code>
     </li>
     <li>
-      <strong>se estiver utilizando Yarn: </strong>
+      <strong>if using Yarn: </strong>
       <code>yarn dev</code>
     </li>
   </ul>
